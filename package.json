@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/anhvodhvn/vetc/issues"
   },
-  "homepage": "https://github.com/anhvodhvn/vetc#readme"
+  "homepage": "https://github.com/anhvodhvn/vetc#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
