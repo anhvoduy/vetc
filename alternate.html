@@ -1,7 +1,7 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Rhino</title>
+<title>Rhino | Alternate</title>
 <meta charset="UTF-8">
 <!--Style Sheet-->
 <link rel="stylesheet" type="text/css" href="css/flexslider.css" media="screen">
@@ -39,7 +39,7 @@
     </div>
   </nav>
 </header>
-<!--<div id="switcher"> <a class="switch-button open"></a>
+<div id="switcher"> <a class="switch-button open"></a>
   <div class="content">
     <ul class="headercolor">
       <span>Header color</span>
@@ -54,34 +54,12 @@
       <li><a href="#" rel="colorfull" class="styleswitch">colorfull</a></li>
     </ul>
   </div>
-</div>-->
-<section id="slider">
-  <div id="sequence-preloader">
-    <div class="preloading"> <img src="images/icons/loader.gif" alt=""> </div>
-  </div>
-  <div id="slideshow"> <img class="prev" src="images/prev.png" alt=""> <img class="next" src="images/next.png" alt="">
-    <ul>
-      <li> <img class="backgrd" src="images/bg/glass.jpg" alt=""> <img class="overlay" src="images/bg/ice.png" alt=""> <img class="image1" src="images/ipad.png" alt=""> <img class="image2" src="images/starbucks.png" alt="">
-        <div class="info">
-          <h2>Starbucks</h2>
-          <p>Advertising Creative,<br/>
-            Branding, Web Development </p>
-        </div>
-        <a href="#" class="more">Purchase</a> </li>
-      <li> <img class="backgrd" src="images/bg/orange.jpg" alt=""> <img class="image1" src="images/ipad.png" alt=""> <img class="image2" src="images/cocktail2.png" alt="">
-        <div class="info">
-          <h2>Cocktail</h2>
-          <p>Advertising Creative,<br/>
-            Branding, Web Development </p>
-        </div>
-        <a href="#" class="more">Purchase</a> </li>
-      <li> <img class="backgrd" src="images/bg/blue.jpg" alt=""> <img class="image1" src="images/ipad.png" alt=""> <img class="image2" src="images/starbucks.png" alt="">
-        <div class="info blue">
-          <h2>Laboratory</h2>
-          <p>Advertising Creative,<br/>
-            Branding, Web Development </p>
-        </div>
-      </li>
+</div>
+<section id="home" class="slider">
+  <div id="content-slider" class="flexslider">
+    <ul class="slides">
+      <li><img src="images/sample/orange.png" alt=""></li>
+      <li><img src="images/sample/gray.png" alt=""></li>
     </ul>
   </div>
 </section>
@@ -93,7 +71,7 @@
     </div>
     <div class="full">
       <div class="column-half">
-        <p><a href="alternate.html">Alternate homepage</a>, filet mignon venison jerky corned beef pork belly cow speck turducken. Ribeye ham fatback, jerky boudin tenderloin biltong speck tail ham hock kielbasa corned beef short ribs meatloaf prosciutto. Hamburger beef andouille speck pastrami. Turkey tri-tip chicken t-bone, bresaola filet mignon tenderloin prosciutto sausage capicola chuck drumstick. Tail ground round strip steak spare ribs, shoulder pig filet mignon. Spare ribs corned beef kielbasa pig, swine ground round boudin bresaola. Beef spare ribs corned beef, jowl ground round speck rump sausage shoulder venison tri-tip turkey kielbasa capicola.</p>
+        <p>Pork chop pancetta pork, filet mignon venison jerky corned beef pork belly cow speck turducken. Ribeye ham fatback, jerky boudin tenderloin biltong speck tail ham hock kielbasa corned beef short ribs meatloaf prosciutto. Hamburger beef andouille speck pastrami. Turkey tri-tip chicken t-bone, bresaola filet mignon tenderloin prosciutto sausage capicola chuck drumstick. Tail ground round strip steak spare ribs, shoulder pig filet mignon. Spare ribs corned beef kielbasa pig, swine ground round boudin bresaola. Beef spare ribs corned beef, jowl ground round speck rump sausage shoulder venison tri-tip turkey kielbasa capicola.</p>
       </div>
       <div class="column-half">
         <div class="image"><img src="images/showcase.png" alt=""></div>
@@ -400,36 +378,6 @@
 <script src="js/lightbox.js"></script>
 <script src="js/styleswitch.js"></script>
 <script src="js/custom.js"></script>
-<!--Sequence slider-->
-<script>
-var options = {
-    autoPlay: true,
-    nextButton: ".next",
-    prevButton: ".prev",
-    preloader: "#sequence-preloader",
-    prependPreloader: false,
-    prependPreloadingComplete: "#sequence-preloader, #slideshow",
-    animateStartingFrameIn: true,
-    transitionThreshold: 500,
-    nextButtonAlt: " ",
-    prevButtonAlt: " ",
-    afterPreload: function () {
-        $(".prev, .next").fadeIn(500);
-        if (!slideShow.transitionsSupported) {
-            $("#slideshow").animate({
-                "opacity": "1"
-            }, 1000);
-        }
-    }
-};
-var slideShow = $("#slideshow").sequence(options).data("sequence");
-if (!slideShow.transitionsSupported || slideShow.prefix == "-o-") {
-    $("#slideshow").animate({
-        "opacity": "1"
-    }, 1000);
-    slideShow.preloaderFallback();
-}
-</script>
 <script>
 new GMaps({
     div: '#map',
