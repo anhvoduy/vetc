@@ -1,0 +1,80 @@
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title" style="text-align: center; font-weight: bold;">{{ formTitle }}</h3>
+        </div>
+        <div class="panel-body">
+			<form name="formAthlete" class="form form-horizontal">
+				<div class="form-group">
+					<label for="FirstName" class="col-sm-2 control-label">First Name</label>
+					<div class="col-sm-6">
+						<input name="FirstName" ng-model="athlete.FirstName" class="form-control" placeholder="First Name" maxlength="20" required/>
+					</div>
+					<div class='control-label col-sm-8 message-error'
+						 ng-show='formAthlete.FirstName.$dirty && formAthlete.FirstName.$invalid'>Please input first name</div>
+				</div>
+
+				<div class="form-group">
+					<label for="LastName" class="col-sm-2 control-label">Last Name</label>
+					<div class="col-sm-6">
+						<input name="LastName" ng-model="athlete.LastName" class="form-control" placeholder="Last Name" maxlength="20" required/>
+					</div>
+					<div class='control-label col-sm-8 message-error'
+						 ng-show='formAthlete.LastName.$dirty && formAthlete.LastName.$invalid'>Please input last name</div>
+				</div>
+				
+				<div class="form-group">
+					<label for="DateOfBirth" class="col-sm-2 control-label">Date of Birth</label>
+					<div class="col-sm-6">
+						<ng-input-date  name='DateOfBirth' value='athlete.DateOfBirth' format='yyyy/MM/dd' required/>
+					</div>
+					<div class='control-label col-sm-8 message-error'
+						 ng-show='formAthlete.DateOfBirth.$dirty && formAthlete.DateOfBirth.$invalid'>Please input date of birth</div>
+				</div>
+				
+				<div class="form-group">
+                    <label for="GenderType" class="col-sm-2 control-label">Gender</label>
+                    <div class="col-sm-6">                
+                        <select name="Gender" 
+                                class="form-control"
+                                ng-model="athlete.Gender"
+                                ng-change="changeSelectedGender()"
+                                ng-options="item.GenderId as item.GenderName for item in genders"
+                                required>                            
+                        </select>
+                    </div>
+                </div>
+
+				<div class="form-group">
+					<label for="Weight" class="col-sm-2 control-label">Weight</label>
+					<div class="col-sm-6">
+						<input name="Weight" ng-model="athlete.Weight" class="form-control" placeholder="Weight" maxlength="10" required/>
+					</div>
+					<div class='control-label col-sm-8 message-error'
+						 ng-show='formAthlete.Weight.$dirty && formAthlete.Weight.$invalid'>Please input weight</div>
+				</div>
+				
+				<div class="form-group">
+					<label for="Height" class="col-sm-2 control-label">Height</label>
+					<div class="col-sm-6">
+						<input name="Height" ng-model="athlete.Height" class="form-control" placeholder="Height" maxlength="10" required/>
+					</div>
+					<div class='control-label col-sm-8 message-error'
+						 ng-show='formAthlete.Height.$dirty && formAthlete.Height.$invalid'>Please input height</div>
+				</div>
+				
+				<div class="form-group">
+					<div class='control-label col-sm-8 message-error' ng-show='(messageError.length > 0)'>{{ messageError }}</div>				
+					<div class='control-label col-sm-8 message-success' ng-show='(messageSuccess.length > 0)'>{{ messageSuccess }}</div>
+				</div>				
+			</form>
+        </div>
+		<div class="panel-footer">
+			<input type="button" class="btn btn-primary" value="Submit" ng-click="submit(athlete)" ng-disabled="isSubmitting"/>
+			<input type="button" class="btn btn-danger" value="Cancel" ng-click="cancel()" ng-disabled="isSubmitting"/>
+			<span ng-show="isSubmitting">
+				<img ng-if="isSubmitting" src="data:image/gif;base64,R0lGODlhEAAQAPIAAP///wAAAMLCwkJCQgAAAGJiYoKCgpKSkiH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAEAAQAAADMwi63P4wyklrE2MIOggZnAdOmGYJRbExwroUmcG2LmDEwnHQLVsYOd2mBzkYDAdKa+dIAAAh+QQJCgAAACwAAAAAEAAQAAADNAi63P5OjCEgG4QMu7DmikRxQlFUYDEZIGBMRVsaqHwctXXf7WEYB4Ag1xjihkMZsiUkKhIAIfkECQoAAAAsAAAAABAAEAAAAzYIujIjK8pByJDMlFYvBoVjHA70GU7xSUJhmKtwHPAKzLO9HMaoKwJZ7Rf8AYPDDzKpZBqfvwQAIfkECQoAAAAsAAAAABAAEAAAAzMIumIlK8oyhpHsnFZfhYumCYUhDAQxRIdhHBGqRoKw0R8DYlJd8z0fMDgsGo/IpHI5TAAAIfkECQoAAAAsAAAAABAAEAAAAzIIunInK0rnZBTwGPNMgQwmdsNgXGJUlIWEuR5oWUIpz8pAEAMe6TwfwyYsGo/IpFKSAAAh+QQJCgAAACwAAAAAEAAQAAADMwi6IMKQORfjdOe82p4wGccc4CEuQradylesojEMBgsUc2G7sDX3lQGBMLAJibufbSlKAAAh+QQJCgAAACwAAAAAEAAQAAADMgi63P7wCRHZnFVdmgHu2nFwlWCI3WGc3TSWhUFGxTAUkGCbtgENBMJAEJsxgMLWzpEAACH5BAkKAAAALAAAAAAQABAAAAMyCLrc/jDKSatlQtScKdceCAjDII7HcQ4EMTCpyrCuUBjCYRgHVtqlAiB1YhiCnlsRkAAAOwAAAAAAAAAAAA==" />
+			</span>
+		</div>
+    </div>
+</div>

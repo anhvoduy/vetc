@@ -1,0 +1,74 @@
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title" style="text-align: center; font-weight: bold;">{{ formTitle }}</h3>
+        </div>
+        <div class="panel-body">
+            <form name="formDevice" class="form form-horizontal">
+                <div class="form-group">
+                    <label for="DeviceNo" class="col-sm-2 control-label">Device Id</label>
+                    <div class="col-sm-6">
+                        <input name="DeviceNo" ng-model="device.DeviceNo" class="form-control" placeholder="Device Id" maxlength="20" required/>
+                    </div>
+                    <div class='control-label col-sm-8 message-error'
+                         ng-show='formDevice.DeviceNo.$dirty && formDevice.DeviceNo.$invalid'>Please input device id</div>
+                </div>
+        
+                <div class="form-group">
+                    <label for="DeviceName" class="col-sm-2 control-label">Device Name</label>
+                    <div class="col-sm-6">
+                        <input name="DeviceName" ng-model="device.DeviceName" class="form-control" placeholder="Device Name" maxlength="50" required/>
+                    </div>
+                    <div class='control-label col-sm-8 message-error'
+                         ng-show='formDevice.DeviceName.$dirty && formDevice.DeviceName.$invalid'>Please input device name</div>
+                </div>
+        
+                <div class="form-group">
+                    <label for="DeviceType" class="col-sm-2 control-label">Device Type</label>
+                    <div class="col-sm-6">                
+                        <select name="DeviceTypeId" 
+                                class="form-control"
+                                ng-model="device.DeviceTypeId"
+                                ng-change="changeSelectedDevice()"
+                                ng-options="item.DeviceTypeId as item.DeviceTypeName for item in deviceTypes"
+                                required>
+                            <option value="">---Please select---</option>
+                        </select>
+                    </div>
+                </div>
+        
+                <div class="form-group">
+                    <label for="Sensor" class="col-sm-2 control-label">Sensor</label>
+                    <div class="col-sm-6">
+                        <input name="Sensor" ng-model="device.Sensor" class="form-control" placeholder="Sensor Data" maxlength="50" required/>
+                    </div>
+                    <div class='control-label col-sm-8 message-error'
+                         ng-show='formDevice.Sensor.$dirty && formDevice.Sensor.$invalid'>Please input sensor data</div>
+                </div>
+
+                <div class="form-group">
+                    <label for="Description" class="col-sm-2 control-label">Description</label>
+                    <div class="col-sm-6">
+                        <textarea name="Description" ng-model="device.Description" class="form-control" placeholder="Description" maxlength="250" required/>
+                    </div>
+                    <div class='control-label col-sm-8 message-error'
+                         ng-show='formDevice.Description.$dirty && formDevice.Description.$invalid'>Please input description</div>
+                </div>
+                
+                <div class="form-group">
+                    <div class='control-label col-sm-8 message-error' ng-show='(messageError !== undefined)'>{{ messageError }}</div>
+                    <div class='control-label col-sm-8 message-success' ng-show='(messageSuccess !== undefined)'>{{ messageSuccess }}</div>
+                </div>                
+            </form>
+        </div>
+		<div class="panel-footer">
+            <div>
+                <input type="button" class="btn btn-primary" value="Submit" ng-click="submit(device)" ng-disabled="isSubmitting"/>
+                <input type="button" class="btn btn-danger" value="Cancel" ng-click="cancel()" ng-disabled="isSubmitting"/>
+                <span ng-show="isSubmitting">
+                    <img ng-if="isSubmitting" src="data:image/gif;base64,R0lGODlhEAAQAPIAAP///wAAAMLCwkJCQgAAAGJiYoKCgpKSkiH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAEAAQAAADMwi63P4wyklrE2MIOggZnAdOmGYJRbExwroUmcG2LmDEwnHQLVsYOd2mBzkYDAdKa+dIAAAh+QQJCgAAACwAAAAAEAAQAAADNAi63P5OjCEgG4QMu7DmikRxQlFUYDEZIGBMRVsaqHwctXXf7WEYB4Ag1xjihkMZsiUkKhIAIfkECQoAAAAsAAAAABAAEAAAAzYIujIjK8pByJDMlFYvBoVjHA70GU7xSUJhmKtwHPAKzLO9HMaoKwJZ7Rf8AYPDDzKpZBqfvwQAIfkECQoAAAAsAAAAABAAEAAAAzMIumIlK8oyhpHsnFZfhYumCYUhDAQxRIdhHBGqRoKw0R8DYlJd8z0fMDgsGo/IpHI5TAAAIfkECQoAAAAsAAAAABAAEAAAAzIIunInK0rnZBTwGPNMgQwmdsNgXGJUlIWEuR5oWUIpz8pAEAMe6TwfwyYsGo/IpFKSAAAh+QQJCgAAACwAAAAAEAAQAAADMwi6IMKQORfjdOe82p4wGccc4CEuQradylesojEMBgsUc2G7sDX3lQGBMLAJibufbSlKAAAh+QQJCgAAACwAAAAAEAAQAAADMgi63P7wCRHZnFVdmgHu2nFwlWCI3WGc3TSWhUFGxTAUkGCbtgENBMJAEJsxgMLWzpEAACH5BAkKAAAALAAAAAAQABAAAAMyCLrc/jDKSatlQtScKdceCAjDII7HcQ4EMTCpyrCuUBjCYRgHVtqlAiB1YhiCnlsRkAAAOwAAAAAAAAAAAA==" />
+                </span>
+            </div>			
+		</div>
+    </div>    
+</div>

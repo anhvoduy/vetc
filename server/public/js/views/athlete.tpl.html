@@ -1,0 +1,47 @@
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title" style="text-align: center; font-weight: bold;">Athlete Management</h3>
+        </div>
+        <div class="panel-body">
+            <p><a ui-sref="athleteEdit({ athleteKey: null, formStatus: 1 })">Add new athlete</a></p>
+            <div class="container" ng-cloak>
+                <div class="row row-table table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Athlete Name</th>
+                                <th>Date of Birth</th>
+                                <th>Gender</th>
+                                <th>Height</th>
+                                <th>Weight</th>
+                                <th>Activate</th>
+                                <th>Edit</th>
+                                <th>Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="a in athletes">
+                                <td>{{ a.AthleteId }}</td>                            
+                                <td>{{ a.DisplayName }}</td>
+                                <td>{{ a.DateOfBirth }}</td>
+                                <td>{{ a.GenderName }}</td>
+                                <td>{{ a.Height }}</td>
+                                <td>{{ a.Weight }}</td>
+                                <td><a ng-click="athleteActivate(a.AthleteKey)" style="cursor:pointer">Activate</a></td>
+                                <td><a ui-sref="athleteEdit({ athleteKey: a.AthleteKey, formStatus: 2 })">Edit</a></td>
+                                <td><a ng-click="athleteDelete(a.AthleteKey)" style="cursor:pointer">Delete</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="row">
+                    <div class="message-error" ng-show='(messageError.length > 0)'>{{ messageError }}</div>
+                    <div class="message-success" ng-show='(messageSuccess.length > 0)'>{{ messageSuccess }}</div>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="panel-footer">ng-paginator</div> -->
+    </div>    
+</div>

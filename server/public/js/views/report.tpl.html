@@ -1,0 +1,95 @@
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title" style="text-align: center; font-weight: bold;">History Data</h3>
+        </div>
+    
+        <div class="panel-body">
+            <form name="formSearch" class="form form-horizontal">
+
+                <div class="form-group">
+                    <label for="AthleteId" class="col-sm-4 control-label">Athlete Name:</label>
+                    <div class="col-sm-4">                
+                        <select name="AthleteId" 
+                                class="form-control"
+                                ng-model="query.AthleteId"
+                                ng-change="changeSelectedAthlete()"
+                                ng-options="item.AthleteId as item.DisplayName for item in athletes"
+                                required />                            
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="DeviceType" class="col-sm-4 control-label">Vital Signal:</label>
+                    <div class="col-sm-4">                
+                        <select name="DeviceTypeId" 
+                                class="form-control"
+                                ng-model="query.DeviceTypeId"
+                                ng-change="changeSelectedDevice()"
+                                ng-options="item.DeviceTypeId as item.DeviceTypeName for item in deviceTypes"
+                                required />
+                        </select>
+                    </div>
+                </div>                              
+
+                <div class="form-group">
+                    <label class="control-label col-sm-4">From Date:</label>
+                    <div class="col-sm-4">
+                        <ng-input-date name='FromDate' value='query.FromDate' format='yyyy/MM/dd' required />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-sm-4">To Date:</label>
+                    <div class="col-sm-4">
+                        <ng-input-date name='ToDate' value='query.ToDate' format='yyyy/MM/dd' required />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-sm-4"></label>
+                    <div class="col-sm-4">
+                        <input type="button" class="btn btn-primary" value="Search" ng-click="search(query)" />
+                    </div>
+                </div>                
+            </form>
+        </div>
+
+        <div class="panel-body">
+            <div class="container" ng-cloak>
+                <div class="row row-table table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Athlete</th>
+                                <th>Device</th>
+                                <th>Vital Signal</th>
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Data</th>                                
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="r in reportData">
+                                <td>{{ $index + 1 }}</td>
+                                <td>{{ $index === 0 ? r.AthleteName: '' }}</td>
+                                <td>{{ r.DeviceNum }}</td>
+                                <td>{{ r.Vital }}</td>
+                                <td>{{ r.Date }}</td>
+                                <td>{{ r.Time }}</td>
+                                <td>{{ r.BPM }}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <!-- <div class="row">
+                    <div class="message-error" ng-show='(messageError.length > 0)'>{{ messageError }}</div>
+                    <div class="message-success" ng-show='(messageSuccess.length > 0)'>{{ messageSuccess }}</div>
+                </div> -->
+            </div>
+        </div>
+        <!-- <div class="panel-footer">ng-paginator</div> -->
+    </div>
+</div>

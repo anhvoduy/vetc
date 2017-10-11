@@ -1,0 +1,33 @@
+{
+  "name": "wearable",
+  "version": "1.0.0",
+  "description": "Wearable",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test */**.spec.js",
+    "coverage": "istanbul cover _mocha -- -R spec"
+  },
+  "keywords": [
+    "wearable"
+  ],
+  "author": "CongLe",
+  "license": "SEE LICENSE IN license",
+  "devDependencies": {
+    "bluebird": "^3.5.0",
+    "chai": "^4.0.2",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.6.1",
+    "request": "^2.81.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "debug": "^2.6.8",
+    "express": "^4.15.3",
+    "moment": "^2.19.0",
+    "mysql": "^2.15.0",
+    "q": "^1.5.0",
+    "socket.io": "^2.0.3"
+  }
+}
