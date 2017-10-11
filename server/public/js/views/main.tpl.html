@@ -1,0 +1,23 @@
+<table class="table table-bordered">
+    <thead class="thead-inverse">
+        <tr>
+            <th>Device Id</th>
+            <th>Device type</th>
+            <th>BPM</th>
+            <th>Signal Strength</th>
+        </tr>
+    </thead>
+    <tbody ng-repeat="device in deviceList track by $index">
+        <tr>
+            <th scope="row">{{device.DeviceId}}</th>
+            <td>{{device.DeviceType}}</td>
+            <td>
+                <div>
+                    <hr-chart set-fn="device.setDirectiveFn(theDirFn)" background-color="#ffffff" min-value="40" max-value="240" value="{{device.BPM}}"></hr-chart>
+                </div>
+                <div style="text-align:center;">{{device.BPM}}</div>
+            </td>
+            <td>{{device.Signal}}</td>
+        </tr>
+    </tbody>
+</table>

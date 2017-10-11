@@ -1,0 +1,83 @@
+<html>
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Optimize mobile viewport -->
+
+    <title>Wearable Info Dashboard</title>
+
+    <!-- SCROLLS -->
+    <link rel="stylesheet" href="../styles/bootstrap.min.css">
+    <!-- load bootstrap -->
+    <link rel="stylesheet" href="../styles/font-awesome.min.css">
+    <!-- load yamm -->
+    <link rel="stylesheet" href="../styles/yamm3/yamm.css">
+    <!-- custom style -->
+    <link rel="stylesheet" href="../styles/style.css">
+    
+    <!-- load jquery -->
+    <!-- <script src="../lib/jquery/jquery-3.2.1.min.js"></script> -->
+    <script src="../lib/jquery/jquery-1.11.1.js"></script>
+
+    <!-- load bootstrap -->
+    <script src="../lib/bootstrap/bootstrap.min.js"></script>
+
+    <!-- load moment -->
+    <script src="../lib/moment/moment.min.js"></script>
+
+    <!-- load angular -->
+    <script src="../lib/angular/angular.min.js"></script>
+    <script src="../lib/angular/angular-sanitize.min.js"></script>
+    <script src="../lib/angular/angular-cookies.min.js"></script>
+    <script src="../lib/angular/angular-ui-router.min.js"></script>
+    <script src="../lib/ui-bootstrap/ui-bootstrap-tpls.js"></script>    
+
+    <!-- load socket -->
+    <script src="../socket.io/socket.io.js"></script>    
+</head>
+<body ng-app="wearableInfoData">
+    <!--mega-menu-->
+    <div mega-menu></div>
+    
+    <!-- views-->
+    <div class="container body-content main-content">
+        <div class="body-view">
+            <div class="main-panel" ui-view="view"></div>
+        </div>
+    </div>
+        
+
+     <!-- load our main application -->
+    <script src="js/config.js"></script>
+    <script src="js/app.js"></script>    
+
+    <!-- common -->
+    <script src="js/common/appCommon.js"></script>
+
+    <!-- directive -->
+    <script src="js/directives/directives.js"></script>
+
+    <!-- controller -->
+    <script src="js/controllers/main.js"></script>
+    <script src="js/controllers/dashboardController.js"></script>    
+    <script src="js/controllers/athleteController.js"></script>
+    <script src="js/controllers/athleteEditController.js"></script>
+    <script src="js/controllers/deviceController.js"></script>
+    <script src="js/controllers/deviceEditController.js"></script>
+    <script src="js/controllers/reportController.js"></script>
+    <script src="js/controllers/sensorController.js"></script>    
+    <script src="js/controllers/menuController.js"></script>
+        
+    <!-- service -->
+    <script src="js/services/baseService.js"></script>
+    <script src="js/services/athleteService.js"></script>
+    <script src="js/services/deviceService.js"></script>
+    <script src="js/services/sensorService.js"></script>    
+
+    <!-- socket -->
+    <script src="js/services/Device.js"></script>
+    <script src="js/services/mysocket.js"></script>
+    <script src="js/services/hrChart.js"></script>
+</body>
+</html>

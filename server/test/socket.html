@@ -1,0 +1,9 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.3/socket.io.js"></script>
+<script>
+ var socket = io('http://192.168.235.65:3000/');
+  socket.on('connect', function (data) {
+    console.log('connect');
+  });
+
+ socket.on('wasp', function (data) { console.log('wasp', data); });
+</script>
