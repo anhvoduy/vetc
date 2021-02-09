@@ -1,4 +1,4 @@
 # vetc
-sample: Angular + SharePoint Online
+- angularjs, sharepoint online
 - npm install
 - node server
