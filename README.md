@@ -1,4 +1,5 @@
 # vetc
-- angularjs, sharepoint online
+- sharepoint online
+- angularjs
 - npm install
 - node server
