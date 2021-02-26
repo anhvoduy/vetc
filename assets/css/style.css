@@ -21001,12 +21001,12 @@ a.view:hover {
     background: linear-gradient(to bottom, #f2622e 0%, rgb(222, 78, 26) 100%);
 }
 
-    #nz-column-11.highlight-true .button:hover {
-        background: #f2622e;
-        background: -moz-linear-gradient(top, #f2622e 0%, rgb(212, 68, 16) 100%);
-        background: -webkit-linear-gradient(top, #f2622e 0%, rgb(212, 68, 16) 100%);
-        background: linear-gradient(to bottom, #f2622e 0%, rgb(212, 68, 16) 100%);
-    }
+#nz-column-11.highlight-true .button:hover {
+    background: #f2622e;
+    background: -moz-linear-gradient(top, #f2622e 0%, rgb(212, 68, 16) 100%);
+    background: -webkit-linear-gradient(top, #f2622e 0%, rgb(212, 68, 16) 100%);
+    background: linear-gradient(to bottom, #f2622e 0%, rgb(212, 68, 16) 100%);
+}
 
 #nz-column-11.highlight-true .hlabel {
     color: rgb(192, 48, -4);
