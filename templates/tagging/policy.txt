@@ -1,0 +1,806 @@
+<h1 style="font-size:14px;line-height:20sp;letter-spacing:0.25sp">Before you use Video Consultation, please read these terms and conditions carefully. You are required to accept these terms and conditions before any use of Video Consultation.</h1>
+<h2 style="font-size:12px;line-height:16sp;letter-spacing:0.4sp">
+•       These Video Consultation terms and conditions (“these VC Terms”) contain important information, and apply to the use of the Video Consultation service in Hong Kong.
+<br>
+<br>
+These VC Terms should be read together with:
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+o        the Terms, which apply to the use of Benefits+ as well as the Video Consultation, can be found in the Profile section under T&Cs
+<br>
+<br>
+o        our Data Privacy Notice explains how we collect, store, use and share your personal data. Our Data Privacy Notice can be found in the Profile section under Privacy policy and in HSBC Life’s website.
+<br>
+<br>
+o        any other terms and conditions that we may notify you
+<br>
+<br>
+These documents together form the agreement between you and us. In the event of a conflict between these VC Terms and the other terms and conditions referred above, these VC Terms will apply.
+<br>
+<br>
+•       By using Video Consultation, you agree to comply with and be bound by these VC Terms.
+<br>
+<br>
+•       For the purposes of these VC Terms, “HSBC Group” means The Hongkong and Shanghai Banking Corporation Limited, its subsidiaries and affiliated companies from time to time.
+<br>
+<br>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+1    What is Video Consultation?
+</h2>
+</div>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+1.1    Video Consultation is part of the Benefits+ platform and thus subject to the terms and conditions described above and these VC Terms.
+<br>
+<br>
+1.2    Through a third party service provider MyDoc Private. Limited (“MyDoc”), HSBC Life (International) Limited incorporated in Bermuda with limited liability (”HSBC Life” or “we” or “us”) offers access to MyDoc’s Video Consultation (“Video Consultation”), which is a virtual medical care service that consists of video, audio and/or text medical consultations and information, as well as any related prescriptions and medical referrals.
+<br>
+<br>
+1.3    Video Consultation should only be used in appropriate medical situations, where in person medical assessment (such as a physical exam), diagnosis or treatment (such as a medical intervention) is not required.  Video Consultation are appropriate for increasing your awareness of medical options available to you for your situation and should not be used, for example, for any emergency services or to replace the services of your regular in-person doctor or a hospital or where a doctor will need to physically check a symptom. You should always provide adequate, detailed, accurate and complete information in the entire process in order determine whether Video Consultation is appropriate to your situation.  If you have any doubt as to whether your situation is appropriate for Video Consultation, you should go seek other qualified and appropriate medical advice instead.
+<br>
+<br>
+1.4    As the information and advice provided by doctor through Video Consultation is based on the information you have supplied through Video Consultation and to the doctor you are interacting with during Video Consultation, you should always provide adequate, detailed, accurate and complete information. You are solely responsible for insufficient, inadequate, false or incomplete information provided by you for Video Consultation. Further, you are solely responsible for understanding any information provided to you through Video Consultation, and, if you have any questions or uncertainty, you should seek further appropriate assistance, such as asking more questions of the doctors on Video Consultation, raising questions to the medical helpdesk through the chat function (provided by MyDoc) in the Video Consultation dashboard or seeking further appropriate medical treatment.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Registration
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+1.5    When you opt for Video Consultation: a) you shall be deemed to accept all the terms and conditions of HSBC Life regarding Video Consultation, and all the terms and Conditions of MyDoc; and b) you will be automatically registered prior to using Video Consultation with MyDoc. Registration for the use of Video Consultation is granted at MyDoc’s sole discretion. MyDoc may reject your request for registration if MyDoc considers there are reasonable grounds for doing so (for example, if MyDoc has doubts as to your identity).
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Accuracy of your information
+ </h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+1.6    You must ensure your Benefits+ data as provided to MyDoc is accurate, current and complete information during registration and ensure that this information is kept up-to-date. We will not be responsible for any loss due to the provision of incomplete or inaccurate information.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Prescriptions
+ </h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+1.7    The doctor you connect with through MyDoc platform’s Video Consultation may provide you a prescription for medicine, and you may also be prompted by us to use a pharmacy partner for delivery or fulfilment of such prescription. If you are so prompted, you will be asked through MyDoc’s chat function to provide or to confirm your addresses and other information, and you are responsible for ensuring the information is accurate, complete and sufficient to enable delivery.  The doctor may, based on the medical history you have provided and the symptoms you describe, prescribe medicine appropriate and medically necessary for your acute conditions and the doctor is solely responsible for doing so.
+<br>
+<br>
+1.8    You are responsible for ensuring that you receive the medicine you are prescribed or that the medicine you receive is the same as that prescribed by the doctor; you should, for example, verify that the medicine delivered to you is indeed yours and is not wrongly delivered. The pharmacist or anyone else associated with the provision of medication you have been prescribed is responsible for properly fulfilling the prescription and providing you any instructions for such medication.  When receiving the medication, you should present the delivery ID as provided by the medical Helpdesk. If you have any doubt on the prescribed medication or delivery of the medication, you should contact Medical Helpdesk (which is provided by MyDoc).
+<br>
+<br>
+1.9    You are solely responsible for understanding the diagnosis and following the instructions provided by the doctor through Video Consultation and by the pharmacist or anyone else associated with the provision of medication prescribed.
+<br>
+<br>
+1.10   Certain classes of medications are not suitable for online prescribing and accordingly will not be provided or delivered to you, notwithstanding anything stated herein.
+<br>
+<br>
+1.11   In no case do we take any responsibility for medications prescribed as a result of Video Consultation.
+<br>
+<br>
+1.12   By agreeing to a pharmacy affiliate of MyDoc fulfilling your prescription, you authorise MyDoc to share basic identification and medical data with the pharmacy affiliate for the purposes of verifying your identification on collection of your prescription. MyDoc’s Privacy Policy is attached in Appendix 2.
+<br>
+<br>
+1.13   You acknowledge that you and the dispensing pharmacies are solely responsible for making arrangement regarding delivery of medication through MyDoc, and you agree to be fully responsible for paying for any and all such medication and delivery (where a delivery service is used) on such terms that you agree with the pharmacy that dispenses the medication.
+<br>
+<br>
+1.14   You will comply with any instructions given in relation to any prescription provided to you including in particular method of usage, timing and dosages; you will promptly report any side effects of any prescription to a doctor; you will protect anything prescribed to you and not permit any other person access to the prescribed medication; and you will not use any prescription after its expiry date.
+<br>
+<br>
+1.15   Video Consultation can provide a referral to clinicians in situations where appropriate by generating a referral letter, when applicable, which usually will be available on the Video Consultation Dashboard within 15 minutes, under normal circumstances (but HSBC Life does not provide any kind of guarantee relating to Video Consultation).
+<br>
+<br>
+1.16   Subject to all the terms herein and the terms of the relevant insurance policy, MyDoc’s delivery service of medicine is only be available for those medication which is deemed by the relevant doctor to be medically necessary for acute conditions(3 to 5 days, where applicable) for the Benefits+ User’s condition.
+<br>
+<br>
+1.17   MyDoc may consider to provide delivery service of medicine to locations in Hong Kong (for eligible members whose age is at least 18 years old), subject to these VC Terms, and further subject to the service coverage area of its delivery partners, save and except any of the following:
+<br>
+<br>
+       o    outlying islands (e.g. Lantau Island, Lamma Island, Cheung Chau, Ma Wan and Park Island), with the exception of Tung Chung, to which delivery may be arranged;
+<br>
+<br>
+       o        frontier closed areas where a permit from the relevant Government department may be required for entry (e.g. Sha Tau Kok, Ta Kwu Ling and Lok Ma Chau); and
+<br>
+<br>
+       o        any other remote areas.
+<br>
+<br>
+1.18   MyDoc’s delivery service of medicine is only available for the delivery of medication which is deemed by doctor to be medically necessary for the Benefits+ user’s conditions, subject to these VC Terms. MyDoc’s delivery service excludes Dangerous Drugs that is stipulated under the Pharmacy and Poisons Ordinance) of the laws of Hong Kong, and items that require cold chain storage.
+<br>
+<br>
+       MyDoc may arrange for delivery of medication to the relevant delivery address within about four (4) hours of the end of the consultation operation and from the time of confirmation of the delivery details,  subject to User’s request for delivery time, and further subject to these VC Terms. Currently, MyDoc’s  cut-off time for same day delivery of prescription is at 6pm, after 6pm the prescription will be delivered on the following working day with the first delivery time to the Benefits+ user being 10am.  There is no guarantee in respect of (i) delivery of medicine, to the intended recipient’s address and (ii) the actual delivery time of medicine by any deliverer or courier (which may arranged by MyDoc) HSBC Life shall not be responsible for any matters relating to delivery of medicine or medicine related matters.
+<br>
+<br>
+1.19   MyDoc’s “Delivery Service” means the delivery of prescription packages, prescription letter, [case notes] sick leave certificate (if applicable) and referral letter to Benefits+ users, spouses and their dependants aged over 18 years old via MyDoc’s designated courier service.
+<br>
+<br>
+1.20   Subject to these VC Terms: (i) MyDoc’s Delivery Service may be available between 9:00am and 11.00pm Monday to Friday (both days inclusive), 9:00am and 5:00pm on Saturday (“Delivery Hours”). In the event that the Delivery Service is utilised outside of the Delivery Hours, MyDoc’s Prescription Concierge may contact the Benefits+ user to schedule the Delivery Service for the next available day within the Delivery Hours, and (ii) MyDoc’s Medical Concierge may be available between 9.00am and 7.00pm Monday to Friday and 9.00am and 5.00pm on Saturday (excluding public holidays).
+<br>
+<br>
+1.21   Notwithstanding anything stated herein, any service related matters in respect of MyDoc may be further changed, pursuant to My Doc’s Terms and Conditions of Use. MyDoc has reserved its rights to modified by MyDoc Terms and Conditions of Use (at MyDoc’s absolute discretion) without any prior notice.
+<br>
+<br>
+1.22   MyDoc will determine (at its discretion) the cut-off time for delivery of medicine (“Deadline for Delivery”). If any member fails to receive medicine before the Delivery Deadline (to be determined by MyDoc) due to any reason, including but not limited to the occurrence of any of the following events: (i) unsuccessful delivery of medicine (without limitation to the event that the member not at the designated collection location at the time of delivery), (ii) the  member fails to promptly respond to MyDoc or MyDoc’s designated courier at the relevant time, or (iii) MyDoc’s medical concierge or staff cannot contact or fail to reach the relevant member for confirmation of delivery address post-consultation, then the following conditions will apply:
+<br>
+<br>
+(a)  such member may not be able to obtain the medicine (via MyDoc, its courier anymore or any other means) after the Deadline for Delivery, no matter under what circumstances and regardless of using whatever means under these VC Terms;
+<br>
+<br>
+(b)  MyDoc will have the right to forfeit and/or destroy such member’s medicine;
+<br>
+<br>
+(c)  the member’s coverage benefits will still be reduced and deducted from such member’s remaining coverage amount(if any)  to cover the total costs of the use of Video Consultation for which a doctor had given prescription of medicine, despite that  the member fails to receive any medicine or any item for such Video Consultation; and
+<br>
+<br>
+(d)  the member will have to consider to make another appointment for Video Consultation with doctor in order to obtain any new prescription under these VC Terms.
+<br>
+<br>
+1.23   Cost of Video Consultation
+<br>
+<br>
+       Subject to all the terms herein, Video Consultation will be covered by the group medical policy if:  (a) you are a member and (ii) you have any remaining coverage amount for this coverage year and the conditions for which you are carrying out the Video Consultation is covered by your policy and not otherwise excluded. Please check (i) the terms of your group medical policy or your employee benefits as to your coverage benefits, exclusions and limits, and (ii) the Benefits tab in Benefits+ as to any remaining coverage amounts. You are responsible to pay at your own expense for any TeleConsultation and any other costs outside the coverage of the group medical policy or exceed the coverage limit. The use of the Video Consultation shall also be subject to the terms and conditions and any exclusions of the relevant insurance policy (under written by HSBC Life).
+<br>
+<br>
+1.24   Member’s coverage amount will be deducted and the remaining coverage amount will be reduced even if member just wants to consult, discuss, or check with the doctor through video consultation (regardless of whether there is any sickness or not).
+<br>
+<br>
+1.25   Video Consultation is designed to be used in Hong Kong only. Video Consultation service is only available to HSBC Life Benefits + members, their spouse and dependants who are : (a) at least 18 years old, (b) have sufficient benefit coverage remaining and (c) physically located within Hong Kong at the time of use of Video Consultation.
+<br>
+<br>
+1.26   The members will be charged for one medical practitioner’s video consultation if: (a) late cancellation (i.e. within 15 minutes before consultation starts) and/or  (b) member do not appear in first 5 minutes after the scheduled video consultation’s start/commencement time.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+2    Compatible device
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+2.1        Please check that your mobile, computer and other electronic devices are compatible with the Video Consultation and MyDoc. To make sure you can access and use Video Consultation and to ensure the security of your account, you should keep your device's operating system up-to-date.
+<br>
+<br>
+2.2        We cannot guarantee that Video Consultation or its features or services are available or supported on all devices or operating systems.
+<br>
+<br>
+2.3        Please ensure that your mobile, computer and other electronic devices are protected from security threats including but not limited installing with anti-virus software,  have been regularly updated with security patches, etc…
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+3    Payments
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+3.1        The costs, fees and expenses for the Video Consultation (including but not limited to any doctor consultations and prescriptions or medicine obtained through Video Consultation will be deducted from your coverage limits under your group medical insurance plan. MyDoc do not deliver any medicine to any remote areas. In the event if MyDoc (at its sole and absolute discretion) considers to deliver any medicine to any remote area (on a case by case basis, subject to prior approval (if any) from MyDoc in the future, the user shall be required to pay all delivery charges out of their pocket (instead of deduction from the benefit coverage of such member or user).
+<br>
+<br>
+3.2        Your medical service provider and pharmacist provider, if applicable, is responsible for making sure that the services and medicines you receive, if any, are within the scope of your insurance policy and not subject to any exclusions.
+<br>
+<br>
+3.3    You will be solely responsible for any costs, fees, and expenses that arise from your use of Video Consultation that is not covered by your group medical insurance policy, including but not limited to  any amounts that exceed your coverage limits, fall outside of your benefits or are subject to an exclusion. Any shortfall would be collected directly through your previously authorized direct debit by the Plan Administrator for your group medical policy or via a shortfall settlement request as set out in your group medical policy.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+4    Personal data
+<br>
+<br>
+Providing personal data to us for Video Consultation
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+4.1        You agree that we may collect, use, store and share your personal data according to our Data Privacy Notice which is available in the Profile section under Privacy policy and HSBC Life’s Data Privacy Notice contained in our website.
+<br>
+<br>
+4.2        Without limitation to clause 4.1 herein, you also agree and authorize MyDoc to transfer and send your personal data and information (including but not limited to  any consultation date, medical condition, health condition, consultation status, prescribed medicine, case notes, prescription letter, sick leave certificate and referral letter) to HSBC Life for: (a) claims processing, administrative, communication, or servicing related purposes, and (b) HSBC Life’s collection, retention and storage of any and all of your personal information, case notes, prescription letter, sick leave certificate and referral letter (if any of the above is applicable) after each Video Consultation in: (i) HSBC Life’s Benefits+ App and (ii) any other kinds of storage medium or device as may be determined by HSBC Life from time to time.
+<br>
+<br>
+4.3        If you disclose personal data of another person (for example, your family member) to us or to MyDoc, you confirm that you have obtained (or will obtain) their consent to provide their personal data to us for the purposes stated in our Personal Information Collection Statement (Data Privacy Notice) or these VC Terms.
+<br>
+<br>
+4.4        You understand that when you first set-up your Video Consultation profile, the information in such profile will be passed to MyDoc for registration and any medication delivery. Such information includes last name, first name, date of birth, phone number and delivery address.
+<br>
+<br>
+4.5    You will be directed to the MyDoc’s  platform to enter your symptoms and to carry out all aspects of the Video Consultation on MyDoc platform, which will store your information from the Video Consultation per MyDoc’s terms and conditions, and MyDoc’ Privacy Policy (“ PICS”). Be sure you understand and agree to MyDoc’s terms and conditions and PICS before you proceed to use the Video Consultation services. Please note that MyDoc will share some of the personal data they collect from you on the MyDoc platform with other third party service providers and will keep your medical records for at least 6 years from collection, per medical guideline requirements.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+5    Changes, suspension and termination
+<br>
+<br>
+Changing these VC Terms and Video Consultation
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+5.1    We may from time to time:
+<br>
+<br>
+(i)   change these VC Terms;
+<br>
+<br>
+(ii)   make changes to, suspend, terminate or deactivate Video Consultation (such as when we carry out scheduled or unscheduled maintenance, upgrades or other servicing to Video Consultation);
+<br>
+<br>
+(iii)     suspend, cancel, terminate or revoke any services offered through Video Consultation (in whole or in part); and
+<br>
+<br>
+(iv)   change the identity and range of services and providers offered through Video Consultation, including changing MyDoc as the third party service provider.
+<br>
+<br>
+5.2        Where possible and appropriate, we will tell you about these changes in advance. If you don’t like these changes, please stop using Video Consultation. By continuing to use Video Consultation, you accept these changes and you will be bound by them.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Transferring our rights and obligations
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+5.3        We may, at any time, transfer or sub-contract any of our rights and obligations without your prior consent to someone we think is able to perform our obligations towards you as well as we would. Where possible and appropriate, we will tell you in advance.
+<br>
+<br>
+5.4        However, you cannot transfer any of your rights or obligations to any other person without our prior written consent.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Suspension and termination
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+5.5        We may limit, suspend or terminate your access to Video Consultation if:
+<br>
+<br>
+(i)   we reasonably suspect that you have breached these VC Terms;
+<br>
+<br>
+(ii)   you gave us incorrect or misleading information;
+<br>
+<br>
+(iii)   we have requested information from you, but you have not given it to us within a reasonable period of time;
+<br>
+<br>
+(iv)   we reasonably suspect fraudulent, illegal, unauthorised or criminal activities; or
+<br>
+<br>
+(v)   we need to do so to ensure we comply with applicable laws, regulations, regulatory guidance or instructions or court orders.
+<br>
+<br>
+We will not be responsible for any losses that you may suffer as a result of the limitation, suspension or termination of your access to Video Consultation.
+<br>
+<br>
+5.6       In addition, you (and spouse and your dependants, if applicable) will no longer have access to Video Consultation if your access to Benefits+ is limited, suspended or ended or if your coverage limits are exceeded.
+<br>
+<br>
+5.7       We may not be able to tell you in advance before we limit, suspend or terminate your access to Video Consultation.
+<br>
+<br>
+5.8        If your access to Video Consultation is suspended or terminated, you will not be able to use any of the Video Consultation services, functions and features.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+6    Our liability and Disclaimers
+ <br>
+<br>
+Security of our systems
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+6.1        We will take reasonable steps to:
+<br>
+<br>
+(i)     ensure our systems (relating to our connection to MyDoc’s platform for Video Consultation) are installed with adequate security designs; and
+<br>
+<br>
+(ii)    control and manage the risks in operating such of our systems
+<br>
+<br>
+(iii)   confirm with MyDoc that MyDoc has taken similar or equivalent precautions.
+<br>
+<br>
+However, neither we nor any member of the HSBC Group can guarantee that Video Consultation is free of destructive properties which may adversely affect your hardware, software or equipment (including your computer and mobile device), or any data transmitted, stored or processed in relation to Video Consultation.  In particular, you acknowledge and agree through your use of Video Consultation that neither we nor any member of the HSBC Group has any direct control over, or responsibility for any of MyDoc’s  act or systems, including but not limited to any such destructive properties or such data.
+<br>
+<br>
+6.2        Rights of HSBC Life
+<br>
+<br>
+By using Video Consultation, you agree that if there is any dispute regarding: (i) the eligibility of the use of Video Consultation under HSBC Life’s Benefit + or (ii) scope of service of Video Consultation under HSBC Life’s Benefits+, HSBC Life  shall have  the right to make the final determination, and the decision of HSBC Life shall be conclusive.
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Video Consultation Providers
+</h2>
+6.3       By displaying and making Video Consultation available to you, we are not making any statement, promise or assurance regarding the nature or quality of the services provided by, MyDoc, any medical service providers available through the Video Consultation, any related prescription services, or any other services resulting from your use of Video Consultation.
+<br>
+<br>
+6.4   We are not responsible for:
+<br>
+<br>
+(i)     the nature or quality of the medical or prescription services provided by MyDoc , any third party medical and/or prescription providers;
+<br>
+<br>
+(ii)    any medicines or medical prescriptions provided as a result of the Video Consultation; or
+<br>
+<br>
+(iii)   any disputes arising out of the transactions between you and service providers available through Video Consultation, including but not limited to those in relation to the provision of the Video Consultation and any errors in processing any prescriptions.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+No representations or warranties
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+6.5        We expressly disclaim all conditions, undertakings, representations and warranties of any kind (whether express or implied) in relation to the Video Consultation.
+<br>
+<br>
+6.6        We make no representations or warranties:
+<br>
+<br>
+(i)   as to the accuracy, quality, completeness, timeliness, adequacy, reliability or validity of any service provided through or as a result of Video Consultation;
+<br>
+<br>
+(ii)   that Video Consultation will meet your requirements, is fit for purpose or is free of defects, errors or omissions; or
+<br>
+<br>
+(iii)    that your use of Video Consultation will be uninterrupted, timely, secure or error-free.
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Limitation of our liability
+</h2>
+6.7        We and the members of the HSBC Group and our respective agents will not be liable for any loss or damage under any circumstances in:
+<br>
+<br>
+•       tort (including negligence);
+<br>
+<br>
+•       breach of contract;
+<br>
+<br>
+•       breach of statutory duty;
+<br>
+<br>
+or otherwise, which you or any other person may incur or suffer in connection with the use of Video Consultation or these VC Terms (including in relation to any acts or omissions of MyDoc and/or the medical or prescription service providers), to the extent that:
+<br>
+<br>
+•       such loss or damage is consequential, indirect, special or punitive; or
+<br>
+<br>
+•       such loss is loss of profits, anticipated savings or other economic loss.
+<br>
+<br>
+This does not affect our liability which cannot be excluded or limited under applicable law.
+<br>
+<br>
+6.8    If it is proved in a case that there was gross negligence or wilful default by us, any member of the HSBC Group, or our respective agents, then our and the HSBC Group’s aggregate liability to you for any direct loss or damage in connection with the use of Video Consultation or these VC Terms will be the lower of:
+<br>
+<br>
+(i)    any loss or damage you incur or suffer that is direct and reasonably foreseeable arising directly and solely from such gross negligence or wilful default; or
+<br>
+<br>
+(ii)   the amount of the relevant transaction or service.
+<br>
+<br>
+6.9    Neither we nor any member of the HSBC Group will be liable for:
+<br>
+<br>
+(i)        any interruption, interception, suspension, delay, loss, unavailability, mutilation or other failure in providing Video Consultation, or in accessing or connecting with MyDoc which is caused by any circumstance beyond our reasonable control; or
+<br>
+<br>
+(ii)   any delays or failures of the performance of any of our obligations under these VC Terms if they are attributable to any event or circumstances which are beyond our reasonable control. These include war, civil commotion, armed conflict, riot, act of terrorism, pandemic, fire, flood or other act of God,  any medical advice, medical service, referral service, prescription, or pharmacist service.
+<br>
+<br>
+(iii)  any act, default, omission on the part of any service provider, MyDoc or any other third parties,
+<br>
+<br>
+6.10   Disclosure:
+<br>
+<br>
+(i)    HSBC Life is not providing any kind of medical advice, medical prescription or medical services (which are required to be performed by a registered medical practitioner or registered pharmacist, or subject to any medical or pharmacy related licensing requirements).
+<br>
+<br>
+Anyone wishing to practice medicine in Hong Kong is required to apply for registration with Medical Council in accordance with the provisions of Medical Registration Ordinance; and any person who intends to practise as a pharmacist in Hong Kong are required to be registered with Pharmacy and Poison Board, subject to Pharmacy and Poisons Ordinance. We (HSBC Life)  are not practicing medicine and we have no intention to practice medicine, through Benefits+ and/or any other means. We neither have any medical practitioner license nor pharmacist license; and we are not providing any medical service, pharmacist service or medical related service which are subject to relevant medical or pharmacy related laws and regulations.
+<br>
+<br>
+(ii)   MyDoc’s current terms and conditions stated that: (a)  they “disclaim any use of the Website for the provision of any emergency services or care for acute medical conditions or where treatment/diagnosis in-person is required.”; and (b) MyDoc  may modify the terms of the Terms And Conditions of Use in MyDoc’s sole discretion, without advance notice.
+<br>
+<br>
+(iii)  Video consultation is not designed to allow any service rendered through it to replace the services of your regular in-person doctor or a hospital.
+<br>
+<br>
+(iv)   Any user of MyDoc should refer to separate terms and conditions, and disclaimers imposed by MyDoc which are different from the terms and conditions issued by HSBC Life.
+<br>
+<br>
+(v)    Relationship between HSBC Life and MyDoc: MyDoc is service provider (for Video Consultation) which is an independent contractor.MyDoc is neither an agent nor employee of HSBC Life. There is no partnership, joint venture, agency or other relationship between the HSBC Life and MyDoc. MyDoc does not have any authority to bind any HSBC Group Member.
+<br>
+<br>
+(vi)   Video Consultation (or telemedicine) is subject to the relevant laws, regulations and guidelines of relevant regulators, which may be issued and amended from time to time.
+<br>
+<br>
+(vii)  MyDoc’s Terms and Conditions of Use (attached in Appendix 1) has required users to indemnity MyDoc as specified therein: “Your access privileges are conditioned on your adherence to the terms of the Terms and Conditions of Use. If you violate any of the terms of the Terms and Conditions of Use, you agree that we may deny you access to the Website. You further agree, at your own expense, to defend and indemnify us and hold us harmless against all claims which may be asserted against us, and all losses incurred, as a result of any violations of the Terms And Conditions of Use.”
+<br>
+<br>
+(viii) HSBC Life is not responsible for any kind of customer support functionality provided by MyDoc, including but not limited to any webchat and prescription coordination provided by MyDoc.
+<br>
+<br>
+6.11   HSBC Life does not recommend or endorse any use of telemedicine through video consultation. Any user of telemedicine or video consultation shall solely bear all the risks related to telemedicine or video consultation.
+<br>
+<br>
+6.12   HSBC Life does not give any advice on practice of medicine or telemedicine. HSBC Life does not give any advice on whether it is suitable for you to use telemedicine or video consultation.
+<br>
+<br>
+6.13   You are required to accept all risks relating to any use of video consultation or telemedicine.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+7    General
+<br>
+<br>
+Delay in exercising any rights
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+7.1        If we or you have any right or remedy under these VC Terms or applicable laws against the other, that right or remedy will not be lost if there is a delay in exercising that right or remedy, nor will it prevent or restrict the exercise of that right or remedy in the future.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+If any term becomes unenforceable
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+7.2        If any part of these VC Terms is prohibited by law or judged by a court to be unlawful, void or unenforceable, that part will be treated as removed from these VC Terms but the rest of these VC Terms will be unaffected and will remain valid and enforceable.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Third party rights
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+7.3        No person other than you and us will have any right under the Contracts (Rights of Third Parties) Ordinance to enforce or enjoy the benefit of any of the provisions of these VC Terms.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Resolving disputes
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+7.4        The laws of Hong Kong will apply to the interpretation of these VC Terms and the Hong Kong courts will have non-exclusive jurisdiction to deal with any dispute between you and us.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Language
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+7.5        If there is any inconsistency between the English and Chinese version of these VC Terms, the English version will prevail.
+<br>
+<br>
+7.6    Rules and regulation for any use of Video Consultation by any member relating to Benefits +
+<br>
+<br>
+HSBC Life reserve our right and discretion to determine (and revise or update from time to time) the Rules (as defined hereunder) for the use of Video Consultation by any member (including but not limited to the eligibility requirements), in accordance with the HSBC Life’s internal policy and procedures, and/or relevant laws and regulations (collectively referred as Rules”). You are required to observe and comply with all such Rules which may be revised and updated from time to time.
+<br>
+<br>
+7.7    Appendix 1 Terms and Conditions relating to MyDoc
+<br>
+<br>
+The attached Appendix 1 contains the terms of Terms and Conditions of MyDoc Pte Ltd., its subsidiaries, branches, and controlled entities.
+<br>
+Any person, who: (a) access MyDoc’s  platform or any of MyDoc’s services, (b) use the Video Consultation service or any other kind of services related to Video Consultation or (c) use MyDoc’s services, must review and accept: (i) MyDoc’s terms and conditions (as contained in the Appendix 1) and MyDoc’s Privacy Policy before proceeding to use any Video Consultation service and (ii) both the terms and conditions of MyDoc, and the Privacy Policy of MyDoc are subject to any changes or modification by MyDoc in the future.
+<br>
+<br>
+7.8    Appendix 2 Privacy Policy of MyDoc
+<br>
+<br>
+The attached Appendix 2 contains the Privacy Policy of MyDoc Pte. Ltd., its subsidiaries, branches, controlled entities and affiliates.
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Appendix 1
+<br>
+<br>
+Terms and Conditions of MyDoc Pte. Ltd., its subsidiaries, branches, and controlled entities.
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+1.   Introduction
+<br>
+We, MyDoc Pte. Ltd., its subsidiaries, branches, and controlled entities (“MyDoc”, “we”, “our”, “us”), welcome persons who access and/or register on our website and subscribe (“you”, “your”) to our service (including all forms of access – website, apps, third-party apps powered by the MyDoc app, etc.) (the “Platform”). We ask that you review these terms and conditions, which are intended to constitute a binding agreement that governs your use of this Website (“Terms And Conditions of Use”). Your use of the Website in any form whatsoever will constitute agreement to these Terms and Conditions of Use.
+<br>
+<br>
+2.   Terms And Conditions Of Use
+<br>
+By using our Website, you agree to be contractually bound to the terms of the Terms And Conditions of Use and Privacy Policy, which shall have the same legal effect as if the Terms And Conditions of Use and Privacy Policy had been personally signed by you. To the extent permitted by law, the Terms And Conditions of Use are intended to supersede any provisions of applicable law which might otherwise limit its enforceability or effect. You agree not to challenge the validity of all electronic records related to your use of the Website as evidence admissible in the courts of law on the grounds of its being in electronic form.
+<br>
+<br>
+3.   Access / Services
+<br>
+By entering into the Terms And Conditions of Use, you will be granted a revocable license to access the Website. Your access privileges are conditional on your adherence to the terms of the Terms And Conditions of Use. We reserve the right to temporarily deny you access to the Website or permanently terminate your access privileges at any time if, in our sole discretion, you have failed to abide by the terms of the Terms And Conditions of Use or appear to us likely to do so. By agreeing to grant you access, we do not obligate ourselves to do so or to maintain the Website, or to maintain it in its present form, and we expressly reserve the right to modify, suspend or terminate your access privileges. You agree and understand that we may, in our sole discretion and without any prior notice, close the Website or deny you access to it.
+<br>
+The Website is for use by independent adults over the age of 18 years old. The Website is not to be used by those under the age of 18. However, the Website may be used by adults to discuss healthcare concerns regarding their children under the age of 18.
+<br>
+It is your responsibility to ensure that it is lawful to access and use the services on the Website in the country in which you are located. We accept no responsibility for the use of the Website in any country where it is unlawful to do so.
+<br>
+Any medical information given on the Website whether written, stated or implied, is for information purposes only. The information is provided “as is” and without warranty of any kind by us.
+<br>
+Your access to certain MyDoc services and Website may be available to you through your health insurance or corporate benefit plan (your “Plan”), provided to you by a third party (your “Plan Sponsor”). MyDoc, together with the doctors you have consultations with through MyDoc (“MyDoc Doctors”) and MyDoc’s staff, are independent from, and not an agent, employee, partner or representative of, your Plan Sponsor.
+<br>
+By using any services available to you through your Plan and by your Plan Sponsor, you authorise us to share basic identification and medical data with the Plan Sponsor for the purpose of claims processing and delivering the services in accordance with your Plan. We will take all reasonable steps to protect your personal information in accordance with our Privacy Policy.
+<br>
+Your access to any of the MyDoc services and Website is not guaranteed by your Plan or by your Plan Sponsor.
+<br>
+MyDoc and MyDoc Doctors are not aware of the terms of your Plan, and give their advice and any referrals independently. A referral, or any health insurance or Plan information, given by a MyDoc Doctor does not guarantee that such referral appointment will be covered by your Plan or that such insurance information is correct or reflective of your Plan, and does not constitute pre-authorisation by your Plan Sponsor. Please contact your Plan Sponsor in relation to any coverage questions you may have regarding services provided by your Plan.
+<br>
+If you have a complaint or question about your Plan, please refer to your Plan documentation for the complaints procedure which you should follow, or contact your Plan Sponsor.
+<br>
+By using the Website, you agree that any information you provide is true and accurate, is not misleading, and is offered in good faith. You are only permitted to access the Website for personal use. You agree not to use the Service for any commercial, business or re-sale purpose.
+<br>
+MyDoc reserves the right to deny any person access to the Website in the event that that person makes excessive use of the services on the Website in the reasonable opinion of MyDoc and/or relative to typical usage patterns (the “Fair Usage Policy”) or is abusive or acts inappropriately to any MyDoc Doctor or any employee or agent of MyDoc. Inappropriate acts include, without limitation: (i) inappropriate, abusive, offensive behaviour or remarks; or (ii) ‘time-wasting’, which shall include no-shows and cancellations. In the event of excessive, inappropriate or abusive use, MyDoc reserves the right to disable your access to the Website and Services, if we feel that you have failed to comply with these Terms And Conditions of Use.
+<br>
+We have the right to disable any password or user identification if we feel that you have failed to comply with these Terms And Conditions of Use.
+<br>
+We provide a care coordination platform with a variety of different health services rendered on the platform. Specific terms and conditions for each of these services are listed below.
+<br>
+<br>
+3a.   Virtual Care Services
+<br>
+We provide a virtual care service that consists of online video, audio and text medical consultations and information, as well as prescription and referrals.
+<br>
+This Website is offered directly through us or through our partners such as employers, insurance companies or other organizations that provide access to the Website to their customers, policyholders or other end-users.
+<br>
+The specific terms controlling your use of the Website is controlled by these Terms And Conditions of Use, supplemented by any terms that are applicable in deployments through partners (the “Partner Terms”). In any case where there is a conflict between Partner Terms and these Terms And Conditions of Use, these Terms And Conditions of Use shall prevail.
+<br>
+We disclaim any use of the Website for the provision of any emergency services or care for acute medical conditions or where treatment/diagnosis in-person is required.
+<br>
+The Website is in no way designed to allow for the services rendered through it to replace the services of your regular in-person doctor or a hospital.
+<br>
+The information and advice provided by a doctor on the Website should be used to increase your awareness of the options you may have available to you. This information is highly unlikely to be appropriate or sufficient in circumstances of emergency, where a physical examination and intervention is likely required.
+<br>
+The information and advice provided by doctors on our Website is based on the information you have supplied to our Website and the doctor you are interacting with. We are absolutely not responsible for false or incomplete information provided by you that will affect the advice provided to you by doctors on our Website. Further, you are solely responsible for understanding any information provided to you on the Website.
+<br>
+You may be issued with a prescription for medicine by a doctor you connect with on the Website; you may also be prompted by us to use a pharmacy partner for delivery or fulfillment of prescription medicines. The doctor will use his or her best endeavours, based on the medical history you have provided and the symptoms you describe, to prescribe medicine appropriate for your condition. In no case will we be responsible for ensuring that you receive the medicine you are prescribed or that the medicine you receive is the same as that prescribed by the doctor. We are also not responsible for any instructions in relation to the medication provided by a pharmacist or anyone else associated with the provision of medication you have been prescribed.
+<br>
+Doctors on the Website may issue prescriptions for medicines only when in their professional judgment, for which we take absolutely no responsibility, it is in your best interests to receive the medicine in accordance with the respective legally enforceable guideline.
+<br>
+Certain classes of medications are not suitable for online prescribing. Regardless, in no case do we take any responsibility for medications prescribed on the Website.
+<br>
+By agreeing to a pharmacy affiliate fulfilling your prescription, you authorise us to share basic identification and medical data with the pharmacy affiliate for the purposes of verifying your identification on collection of your prescription. We will take all reasonable steps to protect your personal information in accordance with our Privacy Policy.
+<br>
+You acknowledge that you and the dispensing pharmacies are solely responsible for arranging to receive medication and paying for such medication and delivery (where a delivery service is used) on such terms that you agree with the pharmacy that dispenses the medication. You are under no obligation to purchase any prescribed medication.
+<br>
+You will comply with any instructions given in relation to any prescription provided to you including in particular route, timing and dosages; you will promptly report any side effects of any prescription to a doctor; you will protect anything prescribed to you and not permit any other person access to the prescribed medication; you will not use any prescription after its expiry date.
+<br>
+The Website can provide a referral to clinicians in situations where appropriate.
+<br>
+<br>
+3b.   Payments
+<br>
+We use a third party payment processor to handle secure payment for chargeable Hosted App Services offered by a Hosted App Provider and are not responsible nor will be held liable for any acts or omissions of such third party payment processor.
+<br>
+Depending on your insurance policy or plan, services offered by MyDoc may require payment from you. You may purchase a service or product directly from us or through a third-party payment provider. When you purchase a service or product (each, a “Transaction”) you may need to supply us or a third-party payment provider, payment details and any additional information required to complete your Transaction, including but not limited to your credit card number, the expiration date of your credit card and your address(es) for billing and delivery (such information, “Payment Information”). You should be aware that online payment transactions are subject to validation checks by our third-party payment provider and your card issuer, and we are not responsible if your card issuer declines to authorize payment for any reason.You represent and warrant that you have the legal right to use all payment method(s) represented by any such Payment Information.
+<br>
+The amounts due and payable by you for a Transaction through the Services will be presented to you before you place your order. If you choose to initiate a Transaction, you authorize us to provide your Payment Information to third party payment providers to complete your Transaction and agree (a) to pay the applicable fees and taxes (if any); (b) that MyDoc may charge your credit card or third party payment processing account, including, but not limited to, your account with the app store or distribution platform (like the Apple App Store or Google Play) where the App is made available (each, an “App Provider”), for verification, pre-authorization and payment purposes; and © to bear any additional charges that your App Provider, bank or other financial service provider may levy on you as well as any taxes or fees that may apply to your order.
+<br>
+You will receive a receipt of payment upon payment. Your order is not binding on MyDoc until accepted and confirmed by MyDoc. All payments made are non-refundable and non-transferable except as expressly provided in these Terms.
+<br>
+If you have any concerns or objections regarding charges, you agree to raise them with us first and you agree not to cancel or reject any credit card or third party payment processing charges unless you have made a reasonable attempt at resolving the matter directly with MyDoc.
+<br>
+MyDoc reserves the right to not process or to cancel your order in certain circumstances including but not limited to the following situations:- (i) if your credit card is declined, if we suspect the request or order is fraudulent, or (ii) in other circumstances MyDoc deems appropriate in its sole discretion.
+<br>
+MyDoc also reserves the right, in its sole discretion, to take steps to verify your identity in connection with your order. You may need to provide additional information to verify your identity before completing your Transaction (such information is included within the definition of Payment Information). MyDoc will either not charge you or refund the charges for orders that we do not process or cancel.
+<br>
+<br>
+4.   Limited License
+<br>
+Original material which we post on the Website (“the Content”) is protected by intellectual property laws. This includes but is not limited to content which is created and owned by us. Such Content includes, but is not limited to photographs, images, illustrations, text, video clips, audio clips, designs, logos, trademarks, trade dress and other materials contained in this Website, as well as the software used in the design and development of this Website. You are hereby granted a non-exclusive license to use the Content, but only while accessing this Website. The names and marks MyDoc Pte. Ltd, MyDoc, my-doc, MyDoc logos and all other MyDoc related marks depicted on this Website, whether registered or unregistered, are trademarks or service marks of MyDoc Pte. Ltd. All rights to use the Content are reserved. Among other things, except to the extent required for the limited purpose of reviewing material on our Website, electronic reproduction, adaptation, distribution, performance or display is prohibited. Commercial use of any of the Content is strictly prohibited. Use of any of our trademarks as metatags on other websites also is strictly prohibited. You may not display this Website in frames (or any of the Content via in-line links) without our express written permission. For the absence of doubt, all material contained on the Website is our property or that of our partners or licensors.
+<br>
+<br>
+5.   Disclaimer
+<br>
+a)  Third Party Intellectual Property Rights
+<br>
+This Website may contain images, materials, information, news, advertisements, listings, blogs, data, text, songs, audio, videos, graphics, software, webcasts, podcasts, broadcasts, messages, software and other material (“Third Party Content”) licensed to MyDoc Pte. Ltd. for use on the Website. Such content is the sole property of its respective owners. Except to the extent required for the limited purpose of reviewing Third Party Content on our Website, electronic reproduction, adaptation, distribution, performance or display of Third Party Content is prohibited. This Website may also contain references to third-party trademarks and names. Such trademarks and names are the sole property of their respective owners.
+<br>
+b)  Links
+This Website may also contain hyperlinks and other links to sites operated by publishers other than MyDoc Pte. Ltd., including, but not limited to, content distributed by MyDoc but owned by third parties (“Hyperlinks). Such Hyperlinks are provided for your reference and convenience only. These linked sites are not under MyDoc Pte. Ltd.’s control and may be governed by their own terms of use. We have not developed or reviewed the content appearing in or on such linked sites and you agree not to hold us responsible for the content or operation of such linked sites. A Hyperlink does not and should not be deemed to imply that MyDoc Pte. Ltd. in any way endorses, sponsors or supports the content, operator or owner of such linked sites. You understand that the Website or the linked sites may contain illegal or objectionable content or dangerous viruses or other disabling or harmful components. If you decide to access the Website or any third party sites linked from our Website, you do so at your sole and exclusive risk. You assume your complete responsibility for any loss or injury sustained by you as a user of any linked site, including those caused by malicious actions of third parties in relation to infection by computer virus programs, malicious code or unwanted software that may infect your computer after selecting a link to a third party website provided on our Website, or any harm whatsoever that may come about from the use of any content on the Website. We make no representation or warranty that the linked sites will conform to any description thereof or perform any desired operations or functions, be uninterrupted or error-free, or be free of viruses, worms, trojan horses or other disabling or harmful components. We do not represent or endorse and hereby disclaim any obligation or responsibility to verify the correctness, quality, accuracy, reliability, performance, completeness, timeliness, or continued availability of any of the content contained on linked sites. No guarantee is made that the links will successfully direct you to the intended third-party website, that such website remains available for viewing or that you are not re-directed to an unintended third party website in error or by the action of third parties.
+<br>
+This section may not be applicable if accessing the Website via a third-party application.
+<br>
+<br>
+6.   Limitation Of Liability
+<br>
+WE DO NOT ACCEPT LIABILITY FOR ANY CONDUCT, ACTS OR OMISSIONS OCCURRING ON THIS WEBSITE OR ANY LOSSES YOU MAY INCUR. IN NO EVENT WILL WE BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, INCLUDING ANY LOST PROFITS, EVEN IF YOU CLAIM TO HAVE NOTIFIED US ABOUT SUCH DAMAGES, OR FOR ANY CLAIMS BY ANY THIRD PARTIES.
+<br>
+<br>
+7.   Privacy
+<br>
+a)  In General
+<br>
+We collect information about you that you provide to us and from cookie files. We may use this information for internal analysis or to contact you about offers or promotions that we sponsor, subject to the terms of our Privacy Policy. We will not knowingly provide any of this information (except in the form of aggregate statistics that do not link you or your identity to any specific information and do not identify you as a visitor to this Website) to third-parties unless we obtain your permission or are compelled to do so by court order or are required to do so by local law. You agree to respect the privacy rights of other visitors by not publishing or harvesting email addresses obtained at this Website.
+<br>
+b)  Privacy Policy
+<br>
+The Privacy Policy is incorporated into and forms part of the Terms And Conditions of Use. Your acceptance of the Terms And Conditions of Use also includes acceptance of the terms of our Privacy Policy. In any conflicts between the Terms And Conditions of Use and the Privacy Policy, the Privacy Policy will take precedence. For more information on our Privacy Policy, kindly refer to this page.
+<br>
+<br>
+8.   Unsolicited Email Spamming Spoofing
+<br>
+You may not use this Website to transmit unsolicited email. You may not send unsolicited email to this Website or to anyone whose email address includes the domain name used on this Website. You may not use our domain name as a pseudonymous return email address for any communications which you transmit from another location or through another service. You may not pretend to be someone else’s or spoof their identity’s when using this Website.
+<br>
+This section may not be applicable if accessing the Website via a third-party application.
+<br>
+<br>
+9.   Violations Indemnification
+<br>
+Your access privileges are conditioned on your adherence to the terms of the Terms and Conditions of Use. If you violate any of the terms of the Terms and Conditions of Use, you agree that we may deny you access to the Website. You further agree, at your own expense, to defend and indemnify us and hold us harmless against all claims which may be asserted against us, and all losses incurred, as a result of any violations of the Terms And Conditions of Use.
+<br>
+<br>
+10. Complete Terms And Conditions Of Use No Representations
+<br>
+The Terms And Conditions of Use constitutes the entire agreement between you and us relating to your access to and use of this Website and supersedes any prior or contemporaneous representations or agreements (other than the Privacy Policy which shall control in any conflict between it and the Terms And Conditions of Use). Any rights not otherwise expressly granted by the Terms And Conditions of Use are reserved by us. The Terms And Conditions of Use may not be modified, either expressly or by implication, except as set forth below in Section 11.
+<br>
+<br>
+11.   Modifications Termination
+<br>
+a)  In General
+<br>
+Our employees are not authorized to vary the terms of the Terms And Conditions of Use. The Terms And Conditions of Use may be modified only (1) by obtaining our written consent in a notarized agreement signed by us, or (2) as set forth below in subpart (b).
+<br>
+b)  Periodic Revisions
+<br>
+You agree that we may modify the terms of the Terms And Conditions of Use in our sole discretion, without advance notice, and that your right to access this Website is conditioned on an ongoing basis with your compliance with the then-current version of these Terms And Conditions of Use. We will post a notice on this page for thirty (30) days following any revisions or modifications to the Terms And Conditions of Use. You agree to review this page at least once every thirty (30) days.
+<br>
+We may update the Website from time to time, and may change the content and service offered through it at any time, to reflect changes in relevant laws and regulatory requirements or to implement minor technical adjustments and improvements. We will not make any changes to the Website, which will adversely affect you without notifying you first.
+<br>
+<br>
+12.   Dispute Resolution Jurisdiction
+<br>
+In the event of any dispute, controversy or claim arising out of or relating to use of this Website, you agree not to proceed to any form of dispute resolution UNLESS both you and us (“the Parties”) have made reasonable efforts to resolve the same through mediation in accordance with the mediation rules of the Singapore Mediation Centre. A Party who receives a notice for mediation from the other Party shall consent and participate in the mediation process. The Terms And Conditions of Use shall be governed by the laws of Singapore. You agree to submit to the exclusive jurisdiction of Singapore Courts to resolve any issue arising from use of this Website.
+<br>
+<br>
+13.   Construction
+<br>
+If any portion of the Terms And Conditions of Use is ruled invalid or otherwise unenforceable, it shall be deemed amended in order to achieve as closely as possible the same effect as originally drafted. Any invalid or unenforceable portion should be construed as narrowly as possible in order to give effect to as much of the Terms And Conditions of Use as possible.
+<br>
+Questions, Complaints and Contacts
+<br>
+If you have any questions about the Terms And Conditions of Use, our policies and practices, your rights under this statement, and your dealings with MyDoc, send an email to support@my-doc.com
+</div>
+<h2 style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+Appendix 2
+<br>
+<br>
+Privacy Policy of MyDoc Pte. Ltd., its subsidiaries, branches, controlled entities and affiliates
+</h2>
+<div style="font-size:12sp;line-height:16sp;letter-spacing:0.4sp">
+We, MyDoc Pte. Ltd., its subsidiaries, branches, controlled entities and affiliates (“MyDoc”, “we”, “ours”, “us”), welcome persons who access and/or register on our website and subscribe (“you”, “your”) to our service (including all forms of access – website, apps, third-party apps powered by the MyDoc app, etc.) (the “Platform”). We ask that you review this privacy policy, which is intended to constitute a binding agreement that governs how we use your Personal Data (“Privacy Policy”). Your use of the Website in any form whatsoever will constitute agreement to this Privacy Policy.
+<br>
+<br>
+Purpose
+<br>
+As part of our commitment to act with integrity and respect individual privacy, we protect the personal data of our stakeholders, including employees, customers, shareholders, partners, suppliers and other individuals who trust us with information. “Personal Data” includes any information, which identifies or locates an individual, or is capable of doing so. To be a trusted business partner, MyDoc continually strives to protect Personal Data in accordance with applicable laws and regulations and industry standards. To that end, this policy guides how MyDoc collects, uses, stores, transfers and secures Personal Data.
+MyDoc addresses the complexities and critical needs of today’s healthcare environment by providing a health data management tool (“HDM”) to service providers and a personal health record (“PHR”) to patients. MyDoc is dedicated to protecting the privacy of the users of any of our products or services and obtains Personal Data for business-related purposes, which may include, but are not limited to, designing, developing, selling and deploying a HDM, PHR and other health and wellness products and service, providing related support, opening your account, communicating with you, implementing your requests, hosting our website, running our mobile and web applications, authenticating your visits, providing personalised content, tracking your usage of our products and services, conducting analytics to promote or improve and enhance our services, conducting surveys or polls, obtaining testimonials, processing and delivering your test results, performing research and development activities, which may include, for example, conducting data analysis and research in order to develop new or improve existing products and services, and performing quality control activities. Such business-related services, such as surveys and polls, may not be applicable if accessing the Website via a third-party application.
+MyDoc’s HDM and PHR are developed for the highest levels of performance. We utilize world-class data centres equipped with modern technology to securely house sensitive data. MyDoc has numerous security measures in place to help protect against the loss, misuse, or alteration of information within the system. These measures include encryption of communications using the Secure Socket Layer (SSL) system and using a secure messaging system when you transmit personal information or requests to your medical providers or patients through our Website. If you are a user of our Website, in addition to this Privacy Policy, we may also require you to sign a user agreement or otherwise provide us with consent to utilize our services that explains how we use and disclose health information, and we may have additional privacy policies for users of these services. If such user agreements and/or additional privacy policies are consented to, they take precedence over this policy. You can find the user agreement for our physician portal and for our patient portal stated within our Terms and Conditions.
+<br>
+<br>
+Revisions Changes And Updates
+<br>
+MyDoc may revise and update the Privacy Policy at any time, without notice to you. We encourage you to periodically reread this Privacy Policy, to see if there have been any changes to our policies that may affect you.
+<br>
+<br>
+User Forums
+<br>
+We may offer forums for the exchange of information among our users. You agree to assume all responsibility for your use of such forums. In particular, you understand that we do not assure the accuracy, reliability, confidentiality or security of information made available through the use of our forums. You should understand that any information you disclose through our user forums will be accessible to the public. You agree that any information you place in user forums will become the exclusive property of MyDoc.
+<br>
+<br>
+Visitor Data
+<br>
+MyDoc maintains permission to gather information on usage, such as numbers of visits, visitor source and visitor activity. This data is collected for the purposes of improving the overall user experience, which includes assisting in creating additional products and services that might be attractive to our users and our partners.
+<br>
+<br>
+Third Party Services
+<br>
+We will share data with third parties for analytics purposes, in particular to improve service quality, features and standards. We use third-party data analytics platforms to improve the MyDoc service in a variety of ways. One such example: Mixpanel: We use Mixpanel as our primary analytics tool to understand how our customers use the MyDoc service and Mixpanel People to contact you about the use of our product. You can read the MixPanel Privacy Policy and opt-out. We also share information with third party services. To continue to improve our products and services, we or our contracted third-party partners may contact you to obtain feedback on our current offerings as well as to solicit feedback on how we may improve them.
+<br>
+<br>
+Password Protection
+<br>
+Access to our products are password protected. We strongly recommend that you do not divulge your password to anyone and that you update your credentials on a regular basis. Exercise the utmost personal security in how you handle your password. MyDoc will never ask for your password in an unsolicited phone call or unsolicited email.
+<br>
+<br>
+Emails
+<br>
+Your email address is never used for any purpose other than to communicate with you, either by us or our contracted third-party partners, or on your behalf. Your email may also be used for forgotten password or user account information, and in the future, it may be used as a tool for messaging. Unless you have opted out, we may also use your email address to send you promotional and marketing materials. For the use of Hong Kong and Macau users’ email addresses for sending promotional and marketing materials, please see the section “Use of Personal Data for Direct Marketing Purposes” below. MyDoc never shares your email address with external companies, unless we have explicitly contracted them to deliver services on our behalf. Additionally, users may revoke their email permission at any time to opt out of receiving any future information. Simply contact us at: support@my-doc.com.
+The use of your email for sending promotional and marketing materials may not be applicable if accessing the Website solely via a third-party application.
+<br>
+<br>
+Surveys Questionnaires And Polls
+<br>
+MyDoc may ask you to participate in use surveys, questionnaires, or polls, to facilitate feedback and input from our users. When you respond to surveys, questionnaires or polls related to our site, this information is used for statistical purposes and to improve our products and services.
+This section may not be applicable if accessing the Website solely via a third-party application.
+<br>
+<br>
+Marketing Products And Services
+<br>
+We may place advertisements concerning the products and services of third parties on the interface to our services, so that you see them when you use the services. Unless you have opted out, we may also email marketing materials to you. For the use of Hong Kong and Macau users’ email addresses for sending promotional and marketing materials, please see the section “Use of Personal Data for Direct Marketing Purposes” below. We may receive remuneration from the suppliers of these products and services for placing their advertisements. We may use computerized processes to tailor the advertisements to you or to your use of the system. However, except as described above, we will not disclose, to any third party, any information that identifies you to enable the third party to market products or services to you directly.
+The placement of advertisements and use of your email for sending marketing materials may not be applicable if accessing the Website solely via a third-party application.
+<br>
+<br>
+Internet Cookies
+<br>
+Each time you access our services, MyDoc collects the limited information that your browser or app makes available whenever you visit any website or access a third-party service online. Additionally, MyDoc may place internet “cookies” on the computer hard drives of visitors to this Website. Information we obtain from cookies helps us to tailor our site to be more helpful and efficient for our visitors. The cookie consists of a unique identifier that does not contain information about you or your health history. We use two types of cookies, “session” cookies and “persistent” cookies. A session cookie is temporary and expires after you end a session and close your web browser. We use session cookies to help customize your experience on our site and maintain your signed-on status as you navigate through the features. Persistent cookies remain on your hard drive after you’ve exited from our site, until you erase them or they expire. Persistent cookies will not contain any personal information about you.
+This section is not applicable if accessing the Website solely via a third-party application.
+<br>
+<br>
+Links To Other Materials
+<br>
+This site provides links to sites operated by third parties. MyDoc has no control over the content of such linked sites, and is not responsible for it, or for the effect of your accessing a site through a link on our site. You should assume that any information that does not bear the MyDoc logo is operated by a third party, and you should read the site’s privacy notice before using it.
+<br>
+This section is not applicable if accessing the Website solely via a third-party application.
+<br>
+<br>
+Age Limitation
+<br>
+We have no intention of accepting any information from individuals under the age of 18. If you are not yet 18 years of age, please leave this site immediately. Parents are urged to monitor and supervise their children’s online activity.
+<br>
+<br>
+Use Of Your Information
+<br>
+We collect health information about you and store it in a personal health record. The health record created is the property of MyDoc, though the health information it contains is your property. We use the information that we collect from you to provide our services to you. For this, we disclose health information to our employees and others involved in providing the care that you need. In addition to this we may use your Personal Data for one or more of the following purposes:
+<br>
+<br>
+•       To provide information to you that you request from us relating to our services. We may share your health information with doctors or healthcare providers who will provide services to you through us.
+<br>
+<br>
+•       As required for the operation of MyDoc. We may use and disclose health information about you to review and improve the quality of services we provide, or to improve the competence and qualifications of our professional staff.
+<br>
+<br>
+•       To provide information to you relating to other healthcare related products and services that may be of interest to you. Such additional information will no longer be provided if you have opted out from receiving such information. For our policy on using your Personal Data for promotional or marketing purposes, please see the section “Use of Personal Data for Direct Marketing Purposes” below.
+<br>
+<br>
+•       To inform you of any changes to our Website, services or goods and products.
+<br>
+<br>
+•       To contact and remind you about products and services that you have selected either from us or our partners.
+<br>
+<br>
+•       As necessary for medical reviews, legal services and audits, including fraud and abuse detection and compliance programs and business planning and management.
+<br>
+<br>
+•       As part of a research study or data mining exercise with the purpose of deriving metrics or insights or other findings which may be used for promotional purposes or published in some other way. All data used for promotional purposes or published in any way will be aggregated and anonymised.
+<br>
+<br>
+•       MyDoc, like many businesses, sometimes hires other companies to perform certain business-related functions, such as processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+<br>
+<br>
+In order to provide our services to you we may provide your Personal Data to third parties, which may include, but are not limited to, the following:
+<br>
+<br>
+•       Doctors or healthcare providers who will provide services to you through our Website.
+<br>
+<br>
+•       Your insurer(s) who referred you to use our service and may require proof of services rendered and/or a medical report before payment is made to MyDoc; or if they are required to authorize services or referrals.
+<br>
+<br>
+•       Third party service providers who have provided services to you or your physician (e.g. x-ray services or lab testing services) in order to obtain test results or for the purposes of issuing invoices.
+<br>
+<br>
+•       Our business associates, such as our associates providing billing services, or performing administrative services for us. MyDoc enters agreements with each of these business associates that require these service providers to protect confidentiality and security of all information extended to them.
+<br>
+<br>
+•       Other companies who help gather your information or communicate with you, such as research companies and ratings agencies, for the purposes of data mining and deriving other insights and in order to enhance the services provided under MyDoc.
+<br>
+<br>
+•       Government or regulatory bodies to whom MyDoc is required to make disclosure to under a legal and / or regulatory obligation in that jurisdiction applicable to MyDoc.
+<br>
+<br>
+•       Providers generating clinical notes (if applicable). We will not use or disclose your clinical notes without your prior written authorization except for the following: Use by the originator of the notes for your treatment, for training our staff, students and other trainees, to defend ourselves if you sue us or bring some other legal proceeding, if the law requires us to disclose the information to you or to another body or for some other reason, in response to health oversight activities concerning your physician, to avert a serious and imminent threat to health or safety, or to the coroner or medical examiner after death. To the extent you revoke an authorization to use or disclose your clinical notes, we will stop using or disclosing these notes, unless one the above items are applicable.
+<br>
+<br>
+Use of your Personal Data for direct contact regarding any of the above notifications may not be applicable if accessing the Website solely via a third-party application.
+<br>
+<br>
+Storing Your Personal Data
+<br>
+<br>
+In operating our Website, it may become necessary to transfer data that we collect from you to locations outside of Singapore, Hong Kong and Macau for processing and storing. By providing your Personal Data to us, you agree to this transfer, storing or processing. We do our utmost to ensure that all reasonable steps are taken to make sure that your data is treated stored securely. MyDoc protects Personal Data from loss, misuse, or unauthorized access, disclosure, alteration or destruction. We store Personal Data, regardless of its form, with security procedures appropriate to the sensitivity of the data. Unfortunately, the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically. Sending such information is entirely at your own risk.
+<br>
+We use a third-party payment processor to process payments made to us. In connection with the processing of such payments, we do not retain financial information such as credit card numbers. Rather, all such information is provided directly to our third-party processor, Stripe, whose use of your personal information is governed by their privacy policy, which may be viewed at https://stripe.com/us/privacy.
+<br>
+<br>
+Disclosing Your Information
+<br>
+We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below: In the event that we sell any or all of our business to a buyer. Where we are legally required by law to disclose your personal information. To further fraud protection and reduce the risk of fraud. The other circumstances discussed in this policy.
+<br>
+<br>
+Use Of Personal Data For Direct Marketing Purposes
+<br>
+For Hong Kong and Macau users, “Personal Details” shall mean your name and contact information.
+<br>
+As well as for the purposes set out above, MyDoc intends to use your Personal Details for promotional or marketing purposes including sending you promotional materials and conducting direct marketing in relation to the following products, services, advice and subjects: medical/health treatment; medicine; educational; training; reward/loyalty/privilege programmes; gymnasium and fitness; sporting and special events; sports and fitness equipment; food and beverage; health supplement; spa and similar relaxation activities and other leisure services; telecommunication and mobile services; internet; other retail/consumer products and services; wellness and charitable/non-profitable causes; hospitality services; insurance; (“Marketing Categories”).
+<br>
+For the purposes of direct marketing, we may provide your Personal Details to providers (and their agents) (whether within or outside of MyDoc) of any of the Marketing Categories described above so that they can contact you and/or send you promotional materials and conduct direct marketing in relation to the products and services that they offer (these materials may be sent to you by postal mail, email or other means). We may provide your Personal Details to providers (whether within or outside of MyDoc) of any of the Marketing Categories for gain.
+<br>
+For users outside of Hong Kong and Macau, unless you opt-out, you hereby consent to us using your Personal Details for the purposes set out above and/or providing your Personal Details to the transferees set out above and that we may use and/or provide your Personal Details for any promotional or marketing purpose.
+<br>
+For Hong Kong and Macau users only, before using your Personal Details for the purposes set out above and/or providing your Personal Details to the transferees set out above, we will obtain your auditable consent, and only after having obtained such auditable consent will we use and/or provide your Personal Details for any promotional or marketing purpose.
+<br>
+You may in the future withdraw your consent to the use and provision to a third party by MyDoc of your Personal Details for direct marketing purposes and thereafter MyDoc shall cease to use such data for direct marketing purposes.
+<br>
+If you wish to withdraw your consent, please inform us by writing to the address in the section on “Questions, Complaints and Contacts” or sending us an email. Any such request should clearly state details of the Personal Details in respect of which the request is being made.
+<br>
+This section may not be applicable if accessing the Website via a third-party application.
+<br>
+<br>
+Third Party Links
+<br>
+On occasion, we include links to third parties on this Website. When we provide a link, it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any Personal Data.
+<br>
+This section is not applicable if accessing the Website solely via a third-party application.
+<br>
+<br>
+Personal Data Protection
+<br>
+Except as described in this Privacy Policy, MyDoc will not use personal and/or health information which identifies you without your written authorization. We work to ensure that Personal Data is accurate, complete and reliable for its intended use. If you do authorize MyDoc to use or disclose your personal and/or health information for another purpose, you may revoke your authorization in writing at any time. You are entitled to access your Personal Data at any time by requesting for the same in writing. As costs are incurred by MyDoc in recovering the Personal Data, MyDoc reserves the right to charge a nominal fee for the recovery of Personal Data requested. You have the right to request that MyDoc amends your personal and/or health information that you believe is incomplete or incorrect. You must make a request to amend in writing. We may deny the request if we do not have the information or did not create the information.
+<br>
+<br>
+Questions, Complaints And Contacts
+<br>
+If you have any questions about this Privacy Statement, our policies and practices, your rights under this statement, your dealings with MyDoc, or require access or corrections to your Personal Data, send an email to support@my-doc.com
+</div>
